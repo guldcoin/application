@@ -1,0 +1,6 @@
+[submodule "pgp-keys"]
+	path = pgp-keys
+	url = https://github.com/guldcoin/pgp-keys.git
+[submodule "javascript"]
+	path = javascript
+	url = https://github.com/guldcoin/javascript.git
