@@ -1,0 +1,9 @@
+{
+  "name":"tech",
+  "path": "/io/tech",
+  "version": "0.0.1",
+  "definition": "Observed knowledge or designed functionality.",
+  "dependencies": {
+    "/io": ">=0.0.2"
+  }
+}
