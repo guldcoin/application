@@ -1,0 +1,24 @@
+[submodule "c"]
+	path = c
+	url = git@bitbucket.org:isysd/tech-c.git
+[submodule "c++"]
+	path = c++
+	url = git@bitbucket.org:isysd/tech-cpp.git
+[submodule "solidity"]
+	path = solidity
+	url = git@bitbucket.org:isysd/tech-solidity.git
+[submodule "css"]
+	path = css
+	url = git@bitbucket.org:isysd/tech-css.git
+[submodule "perl"]
+	path = perl
+	url = git@bitbucket.org:isysd/tech-perl.git
+[submodule "shell"]
+	path = shell
+	url = git@bitbucket.org:isysd/tech-shell.git
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/isysd/tech-firmware.git
+[submodule "js"]
+	path = js
+	url = https://github.com/isysd/tech-js.git
